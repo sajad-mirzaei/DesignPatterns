@@ -1,6 +1,6 @@
 ﻿using Memento.Struct1;
 
-namespace RefactoringGuru.DesignPatterns.Memento.Conceptual
+namespace Memento
 {
     class Program
     {

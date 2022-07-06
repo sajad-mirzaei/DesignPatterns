@@ -1,6 +1,6 @@
 ﻿using Observer.Struct1;
 
-namespace RefactoringGuru.DesignPatterns.Observer.Conceptual
+namespace Observer
 {
     class Program
     {
