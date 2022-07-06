@@ -24,3 +24,5 @@
 /src/ChainOfResponsibility/obj
 /src/Command/bin/Debug/net6.0
 /src/Command/obj
+/src/Proxy/bin
+/src/Proxy/obj
