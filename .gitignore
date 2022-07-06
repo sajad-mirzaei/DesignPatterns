@@ -44,3 +44,5 @@
 /src/Prototype/obj
 /src/FactoryMethod/bin
 /src/FactoryMethod/obj
+/src/Builder/bin
+/src/Builder/obj
