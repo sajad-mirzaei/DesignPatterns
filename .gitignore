@@ -30,3 +30,5 @@
 /src/Flyweight/obj
 /src/Facade/bin
 /src/Facade/obj
+/src/Decorator/obj
+/src/Decorator/bin
