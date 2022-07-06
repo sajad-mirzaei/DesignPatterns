@@ -46,3 +46,5 @@
 /src/FactoryMethod/obj
 /src/Builder/bin
 /src/Builder/obj
+/src/AbstractFactory/bin
+/src/AbstractFactory/obj
