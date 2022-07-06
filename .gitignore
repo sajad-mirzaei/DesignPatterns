@@ -38,3 +38,5 @@
 /src/Bridge/obj
 /src/Adapter/bin
 /src/Adapter/obj
+/src/Singleton/bin
+/src/Singleton/obj
