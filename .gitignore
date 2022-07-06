@@ -42,3 +42,5 @@
 /src/Singleton/obj
 /src/Prototype/bin
 /src/Prototype/obj
+/src/FactoryMethod/bin
+/src/FactoryMethod/obj
