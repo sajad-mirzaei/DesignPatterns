@@ -40,3 +40,5 @@
 /src/Adapter/obj
 /src/Singleton/bin
 /src/Singleton/obj
+/src/Prototype/bin
+/src/Prototype/obj
