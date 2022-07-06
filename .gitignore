@@ -20,3 +20,7 @@
 /src/Mediator/bin
 /src/Iterator/bin
 /src/Iterator/obj
+/src/ChainOfResponsibility/bin
+/src/ChainOfResponsibility/obj
+/src/Command/bin/Debug/net6.0
+/src/Command/obj
