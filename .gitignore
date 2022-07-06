@@ -22,7 +22,9 @@
 /src/Iterator/obj
 /src/ChainOfResponsibility/bin
 /src/ChainOfResponsibility/obj
-/src/Command/bin/Debug/net6.0
+/src/Command/bin
 /src/Command/obj
 /src/Proxy/bin
 /src/Proxy/obj
+/src/Flyweight/bin
+/src/Flyweight/obj
