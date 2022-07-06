@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+/.vs
+/src/TemplateMethod/bin
+/src/TemplateMethod/obj
