@@ -36,3 +36,5 @@
 /src/Composite/obj
 /src/Bridge/bin
 /src/Bridge/obj
+/src/Adapter/bin
+/src/Adapter/obj
