@@ -32,3 +32,5 @@
 /src/Facade/obj
 /src/Decorator/obj
 /src/Decorator/bin
+/src/Composite/bin
+/src/Composite/obj
