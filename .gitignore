@@ -34,3 +34,5 @@
 /src/Decorator/bin
 /src/Composite/bin
 /src/Composite/obj
+/src/Bridge/bin
+/src/Bridge/obj
