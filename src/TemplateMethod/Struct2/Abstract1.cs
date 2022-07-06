@@ -1,4 +1,4 @@
-﻿namespace TemplateMethod.Struct1
+﻿namespace TemplateMethod.Struct2
 {
     public abstract class Abstract1
     {

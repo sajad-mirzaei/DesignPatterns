@@ -1,4 +1,4 @@
-﻿namespace TemplateMethod.Struct1
+﻿namespace TemplateMethod.Struct2
 {
     /// <summary>
     /// Implements the primitive operations ot carry out subclass-specific steps of the algorithm.

@@ -1,4 +1,4 @@
-﻿namespace TemplateMethod.Struct1
+﻿namespace TemplateMethod.Struct2
 {
     /// <summary>
     /// Concrete classes have to implement all abstract operations of the base class.

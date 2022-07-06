@@ -1,6 +1,6 @@
-﻿using System;
+﻿using TemplateMethod.Struct2;
 
-namespace TemplateMethod.Struct1
+namespace TemplateMethod.Struct2
 {
     public class TemplateMethod1
     {
