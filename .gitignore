@@ -6,3 +6,5 @@
 /.vs
 /src/TemplateMethod/bin
 /src/TemplateMethod/obj
+/src/State/bin
+/src/State/obj
